@@ -14,4 +14,8 @@ venv\Scripts\activate
 
 pip install Flask
 
+#App set up
+set FLASK_APP=hello
+flask run
+
 
